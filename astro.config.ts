@@ -87,7 +87,5 @@ export default defineConfig({
       },
     },
   },
-  
-  site: 'https://eqty-cc.github.io',
 
 });
