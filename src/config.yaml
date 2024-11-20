@@ -1,6 +1,6 @@
 site:
   name: EquityCoin
-  site: 'https://astrowind.vercel.app'
+  site: 'https://eqty.cc'
   base: '/'
   trailingSlash: false
 
@@ -16,7 +16,7 @@ metadata:
     index: true
     follow: true
   openGraph:
-    site_name: AstroWind
+    site_name: EquityCoin
     images:
       - url: '~/assets/images/default.png'
         width: 1200
